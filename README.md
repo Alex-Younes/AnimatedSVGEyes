@@ -1,6 +1,15 @@
-# Animated SVG Eyes
-
-## **Español (please scroll down for English text)**
+# **Índice / Index**
+- [**Índice / Index**](#índice--index)
+- [**Animated SVG Eyes**](#animated-svg-eyes)
+  - [**Español**](#español)
+    - [**Contenido**](#contenido)
+    - [**Elementos de terceros utilizados**](#elementos-de-terceros-utilizados)
+  - [**English**](#english)
+    - [**Content**](#content)
+    - [**Third-party elements used**](#third-party-elements-used)
+  - [**Licencias / Licenses**](#licencias--licenses)
+# **Animated SVG Eyes**
+## **Español**
 Proyecto de animación simple con fines de prueba de un par de ojos en formato SVG.\
 Para ver la animación entrar desde [Alex-Younes.github.io/AnimatedSVGEyes](https://Alex-Younes.github.io/AnimatedSVGEyes).
 
