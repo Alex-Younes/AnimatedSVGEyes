@@ -7,14 +7,17 @@
   - [**English**](#english)
     - [**Content**](#content)
     - [**Third-party elements used**](#third-party-elements-used)
-  - [**Licencias / Licenses**](#licencias--licenses)
+- [**Licencias / Licenses**](#licencias--licenses)
+  - [**anime.js**](#animejs)
+  - [**Twemoji**](#twemoji)
+
 # **Animated SVG Eyes**
 ## **Español**
-Proyecto de animación simple con fines de prueba de un par de ojos en formato SVG.\
+Un simple proyecto de animación con fines de prueba de un par de ojos en formato SVG.\
 Para ver la animación entrar desde [Alex-Younes.github.io/AnimatedSVGEyes](https://Alex-Younes.github.io/AnimatedSVGEyes).
 
 ### **Contenido**
-* index.html: Solo un contenedor para el SVG.
+* index.html: Es solo un contenedor para el SVG.
 * anime360.svg: Giro 360º con inercia utilizando la librería [anime.js](https://github.com/juliangarnier/anime).
 
 ### **Elementos de terceros utilizados**
@@ -22,11 +25,11 @@ Para ver la animación entrar desde [Alex-Younes.github.io/AnimatedSVGEyes](http
 * Emoji ojos de [Twemoji](https://github.com/twitter/twemoji).
 
 ## **English**
-Simple animation project with testing purposes of a pair of eyes in SVG format.\
+A simple animation project with testing purposes of a pair of eyes in SVG format.\
 To see the animation enter from [Alex-Younes.github.io/AnimatedSVGEyes](https://Alex-Younes.github.io/AnimatedSVGEyes).
 
 ### **Content**
-* index.html: Just a container for the SVG.
+* index.html: It's just a container for the SVG.
 * anime360.svg: 360º spin with inertia using the [anime.js](https://github.com/juliangarnier/anime) library.
 
 ### **Third-party elements used**
@@ -35,7 +38,7 @@ To see the animation enter from [Alex-Younes.github.io/AnimatedSVGEyes](https://
 
 # **Licencias / Licenses**
 
-**anime.js**
+## **anime.js**
 >The MIT License
 >
 >Copyright (c) 2020 Julian Garnier
@@ -46,7 +49,7 @@ To see the animation enter from [Alex-Younes.github.io/AnimatedSVGEyes](https://
 >
 >THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-**Twemoji**
+## **Twemoji**
 >Copyright (c) 2020 Twitter, Inc and other contributors
 >
 >Creative Commons Attribution 4.0 International (CC BY 4.0)
