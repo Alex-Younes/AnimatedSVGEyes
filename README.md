@@ -33,7 +33,7 @@ To see the animation enter from [Alex-Younes.github.io/AnimatedSVGEyes](https://
 * [anime.js](https://github.com/juliangarnier/anime) library.
 * Eyes emoji of [Twemoji](https://github.com/twitter/twemoji).
 
-## **Licencias / Licenses**
+# **Licencias / Licenses**
 
 **anime.js**
 >The MIT License
